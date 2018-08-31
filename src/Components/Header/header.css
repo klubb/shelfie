@@ -1,0 +1,12 @@
+.header {
+  height: 100px;
+  background-color: #ab2a19;
+  display: flex;
+  align-content: flex-start;
+  align-items: center;
+}
+
+.shelfie {
+  color: white;
+  margin-left: 100px;
+}
